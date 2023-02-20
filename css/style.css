@@ -318,6 +318,7 @@ a:focus {
     background-size: contain;
 }
 
+
 .header p {
     color: #FF6F61;
     font-size: 22px;
@@ -1100,5 +1101,10 @@ a:focus {
 
 .footer a:hover {
     color: #222222;
+}
+
+.postItem img {
+    height: auto;
+    width: 450px;
 }
 
